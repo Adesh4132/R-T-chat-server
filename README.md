@@ -25,3 +25,7 @@ One of the standout features of this project is its use of WebSockets for real-t
 This FastAPI WebSocket Chat Application is not just a toy; it demonstrates real-world concepts used by professional developers. Concepts like asynchronous programming, concurrency, event-driven architecture, and network protocols are all present in this simple project. By studying and expanding upon this codebase, you will gain practical experience with tools and patterns that are in high demand in the software industry today.
 
 Whether you're a student, hobbyist, or aspiring developer, this project offers a hands-on introduction to some of the most exciting areas of software development. Feel free to fork the repository, contribute new ideas, or use it as a base for your own creations. Building real-time apps is fun and rewarding—so dive in, experiment, and happy coding!
+
+<img width="1919" height="1023" alt="Image" src="https://github.com/user-attachments/assets/df75a3a8-5a4e-47e1-884c-9829ab276dac" />
+<img width="1919" height="1021" alt="Image" src="https://github.com/user-attachments/assets/aba95fcb-2672-4927-8967-b792a7331103" />
+<img width="1919" height="1032" alt="Image" src="https://github.com/user-attachments/assets/88aa7cc9-de32-4b80-8dba-b22700711ea7" />
